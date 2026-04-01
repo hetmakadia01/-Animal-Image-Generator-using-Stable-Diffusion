@@ -46,9 +46,6 @@ pip install diffusers transformers scipy gradio
 ## 🤝 Contributing
 Feel free to fork and contribute 😊  
 
-## 📄 License
-MIT License  
-
 ## ❤️ Acknowledgements
 - Hugging Face 🤗  
 - Stable Diffusion  
